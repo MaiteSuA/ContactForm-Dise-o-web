@@ -1,0 +1,21 @@
+.confirmation-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+  }
+  
+  .confirmation-container h2 {
+    color: #333; 
+  }
+  
+  .confirmation-container p {
+    color: #555; 
+    margin: 5px 0;
+  }
+  
+  .confirmation-container button {
+    background-color: #888; 
+    margin-top: 20px;
+  }
+  
